@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Marianne &amp; Vincent — Invitation de mariage</title>
+  <meta name="description" content="Marianne &amp; Vincent ont la joie de vous inviter à leur mariage, le samedi 21 novembre 2026 à Abidjan.">
+  <meta name="theme-color" content="#D6246E">
+
+  <!-- Aperçu lors du partage (WhatsApp, Facebook...) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Marianne &amp; Vincent — Invitation de mariage">
+  <meta property="og:description" content="Nous serions heureux de vous compter parmi nous le samedi 21 novembre 2026.">
+  <!-- APRÈS la mise en ligne, remplacez par l'adresse complète, par exemple :
+       https://VOTRE-SITE.vercel.app/photos/accueil.jpg -->
+  <meta property="og:image" content="photos/accueil.jpg">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..700;1,6..96,400..700&family=Cinzel:wght@400..700&family=Jost:wght@300..600&family=Pinyon+Script&display=swap">
+  <link rel="preload" as="image" href="photos/accueil.jpg" fetchpriority="high">
+  <link rel="stylesheet" href="style.css">
+
+  <script src="config.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body class="locked">
+
+  <!-- ===== Ouverture : l'enveloppe ===== -->
+  <div class="intro" id="intro">
+    <p class="intro-top" id="introTop"></p>
+
+    <div class="env-scene" id="scene">
+      <div class="env-back"></div>
+      <div class="flap" id="flap"><span></span></div>
+      <div class="env-card" id="card">
+        <div class="card-in">
+          <small id="cardSurtitre"></small>
+          <strong id="cardNoms"></strong>
+          <span id="cardDate"></span>
+        </div>
+      </div>
+      <div class="pocket p-left"></div>
+      <div class="pocket p-right"></div>
+      <div class="pocket p-bottom"></div>
+      <div class="seal" id="seal" aria-hidden="true"><span id="sealText"></span></div>
+    </div>
+
+    <button class="btn" id="openBtn" type="button"></button>
+  </div>
+
+  <!-- ===== Le site (rempli par script.js à partir de config.js) ===== -->
+  <main class="site" id="site"></main>
+
+  <noscript>
+    <p style="padding:2rem;text-align:center;font-family:sans-serif">
+      Merci d'activer JavaScript pour découvrir notre invitation.
+    </p>
+  </noscript>
+</body>
+</html>
