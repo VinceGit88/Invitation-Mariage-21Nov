@@ -100,14 +100,14 @@ window.INVITATION = {
         nom: "Espace Eden Traiteur",
         adresse: "Riviera 2, Abidjan, Côte d'Ivoire",
         quand: "Samedi 21 Novembre, à 14h00",
-        recherche: "Espace Eden Traiteur, Riviera 2, Abidjan"
+        recherche: "Espace Eden, Riviera 2, Abidjan"
       },
       {
         onglet: "Mairie",
         nom: "Mairie de Cocody",
         adresse: "Cocody, Abidjan, Côte d'Ivoire",
         quand: "Samedi 21 Novembre, à 09h00",
-        recherche: "Mairie de Cocody, Abidjan"
+        recherche: "Hôtel Communal de Cocody, Abidjan"
       },
       {
         onglet: "Église",
