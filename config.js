@@ -66,14 +66,7 @@ window.INVITATION = {
   galerie: {
     surtitre: "Souvenirs",
     titre: "Galerie",
-    photos: [
-      { src: "photos/galerie-1.jpg", alt: "Marianne et Vincent", format: "portrait" },
-      { src: "photos/galerie-2.jpg", alt: "Marianne et Vincent ensemble", format: "paysage" },
-      { src: "photos/galerie-3.jpg", alt: "Un moment complice", format: "portrait" },
-      { src: "photos/galerie-4.jpg", alt: "Un sourire partagé", format: "carre" },
-      { src: "photos/galerie-5.jpg", alt: "Nos mains unies", format: "paysage" },
-      { src: "photos/galerie-6.jpg", alt: "Notre promenade", format: "portrait" }
-    ]
+    photos: []
   },
 
   /* ---------- 4. Le programme (samedi) ---------- */
