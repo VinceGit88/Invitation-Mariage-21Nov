@@ -60,15 +60,7 @@ window.INVITATION = {
       }
     ]
   },
-
-  /* ---------- 3. Galerie (4 à 7 photos) ----------
-     format : "portrait", "paysage" ou "carre" */
-  galerie: {
-    surtitre: "Souvenirs",
-    titre: "Galerie",
-    photos: []
-  },
-
+   
   /* ---------- 4. Le programme (samedi) ---------- */
   programme: {
     surtitre: "Samedi 21 Novembre 2026",
@@ -121,7 +113,7 @@ window.INVITATION = {
         nom: "Cité des Cadres",
         adresse: "Cocody (École de police), Abidjan, Côte d'Ivoire",
         quand: "Dimanche 22 Novembre, réception familiale",
-        recherche: "Cité des Cadres, École de police, Cocody, Abidjan"
+        recherche: "CMA Business center cocody abidjan malle, Cocody, Abidjan"
       }
     ]
   },
@@ -148,7 +140,7 @@ window.INVITATION = {
     bouton: "Je confirme ma présence",
     lien: "https://forms.gle/REMPLACEZ-PAR-VOTRE-LIEN",
     limiteLibelle: "Réponse souhaitée avant le",
-    dateLimite: "Samedi 7 Novembre 2026"
+    dateLimite: "Mardi 10 Novembre 2026"
   },
 
   /* ---------- 8. Pied de page ---------- */
