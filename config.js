@@ -146,7 +146,7 @@ window.INVITATION = {
     titre: "Confirmer ma présence",
     texte: "Votre présence sera notre plus beau cadeau. Merci de nous confirmer votre venue en remplissant le court formulaire.",
     bouton: "Je confirme ma présence",
-    lien: "https://forms.gle/https://forms.gle/gVzbVYtcMnQi3J9c7",
+    lien: "https://forms.gle/GoLva54wRoGzVPK36",
     limiteLibelle: "Réponse souhaitée avant le",
     dateLimite: "Mardi 10 Novembre 2026"
   },
