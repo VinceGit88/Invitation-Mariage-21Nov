@@ -121,7 +121,7 @@ window.INVITATION = {
         nom: "Cité des Cadres",
         adresse: "Cocody (École de police), Abidjan, Côte d'Ivoire",
         quand: "Dimanche 22 Novembre, réception familiale",
-        recherche: "La Maison Akissi, Cité des Cadres, Abidjan"
+        recherche: "CMA Business center cocody abidjan malle, 9224+RW2 Mouskovichcosta@gmai.com, Abidjan"
       }
     ]
   },
