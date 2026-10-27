@@ -61,7 +61,7 @@ window.INVITATION = {
     ]
   },
    
-  /* ---------- 4. Le programme (samedi) ---------- */
+  /* ---------- 3. Le programme (samedi) ---------- */
   programme: {
     surtitre: "Samedi 21 Novembre 2026",
     titre: "Le programme",
@@ -79,7 +79,7 @@ window.INVITATION = {
     }
   },
 
-  /* ---------- 5. Le lieu de réception ----------
+  /* ---------- 4. Le lieu de réception ----------
      Le 1er lieu s'affiche en premier. "recherche" = ce qu'on tape dans Google Maps.
      Pour plus de précision, remplacez-la par l'adresse exacte du lieu. */
   lieu: {
@@ -113,12 +113,12 @@ window.INVITATION = {
         nom: "Cité des Cadres",
         adresse: "Cocody (École de police), Abidjan, Côte d'Ivoire",
         quand: "Dimanche 22 Novembre, réception familiale",
-        recherche: "CMA Business center cocody abidjan malle, Cocody, Abidjan"
+        recherche: "CMA Business center cocody abidjan malle, Abidjan"
       }
     ]
   },
 
-  /* ---------- 6. Tenue ---------- */
+  /* ---------- 5. Tenue ---------- */
   tenue: {
     surtitre: "Dress code",
     titre: "Tenue",
@@ -132,7 +132,7 @@ window.INVITATION = {
     ]
   },
 
-  /* ---------- 7. Confirmer ma présence ---------- */
+  /* ---------- 6. Confirmer ma présence ---------- */
   rsvp: {
     surtitre: "R.S.V.P.",
     titre: "Confirmer ma présence",
@@ -143,7 +143,7 @@ window.INVITATION = {
     dateLimite: "Mardi 10 Novembre 2026"
   },
 
-  /* ---------- 8. Pied de page ---------- */
+  /* ---------- 7. Pied de page ---------- */
   pied: {
     merci: "Merci de faire partie de notre histoire",
     slogan: "Simple & Chic",
