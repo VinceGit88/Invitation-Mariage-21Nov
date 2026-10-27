@@ -58,9 +58,18 @@ window.INVITATION = {
         titre: "Dieu au centre de tout",
         texte: "Nous avons choisi de bâtir notre foyer sur la foi et la prière. C'est avec Lui que nous disons « oui » pour la vie."
       }
+    ]
   },
-   
-  /* ---------- 3. Le programme (samedi) ---------- */
+
+  /* ---------- 3. Galerie (4 à 7 photos) ----------
+     format : "portrait", "paysage" ou "carre" */
+  galerie: {
+    surtitre: "Souvenirs",
+    titre: "Galerie",
+    photos: []
+  },
+
+  /* ---------- 4. Le programme (samedi) ---------- */
   programme: {
     surtitre: "Samedi 21 Novembre 2026",
     titre: "Le programme",
@@ -78,7 +87,7 @@ window.INVITATION = {
     }
   },
 
-  /* ---------- 4. Le lieu de réception ----------
+  /* ---------- 5. Le lieu de réception ----------
      Le 1er lieu s'affiche en premier. "recherche" = ce qu'on tape dans Google Maps.
      Pour plus de précision, remplacez-la par l'adresse exacte du lieu. */
   lieu: {
@@ -112,12 +121,12 @@ window.INVITATION = {
         nom: "Cité des Cadres",
         adresse: "Cocody (École de police), Abidjan, Côte d'Ivoire",
         quand: "Dimanche 22 Novembre, réception familiale",
-        recherche: "CMA Business center cocody abidjan malle, Abidjan"
+        recherche: "La Maison Akissi, Cité des Cadres, Abidjan"
       }
     ]
   },
 
-  /* ---------- 5. Tenue ---------- */
+  /* ---------- 6. Tenue ---------- */
   tenue: {
     surtitre: "Dress code",
     titre: "Tenue",
@@ -131,7 +140,7 @@ window.INVITATION = {
     ]
   },
 
-  /* ---------- 6. Confirmer ma présence ---------- */
+  /* ---------- 7. Confirmer ma présence ---------- */
   rsvp: {
     surtitre: "R.S.V.P.",
     titre: "Confirmer ma présence",
@@ -139,10 +148,10 @@ window.INVITATION = {
     bouton: "Je confirme ma présence",
     lien: "https://forms.gle/REMPLACEZ-PAR-VOTRE-LIEN",
     limiteLibelle: "Réponse souhaitée avant le",
-    dateLimite: "Mardi 10 Novembre 2026"
+    dateLimite: "Samedi 7 Novembre 2026"
   },
 
-  /* ---------- 7. Pied de page ---------- */
+  /* ---------- 8. Pied de page ---------- */
   pied: {
     merci: "Merci de faire partie de notre histoire",
     slogan: "Simple & Chic",
