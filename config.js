@@ -87,7 +87,7 @@ window.INVITATION = {
     }
   },
 
-  /* ---------- 5. Le lieu de réception ----------
+  /* ---------- 5. Rendez Vous pour ----------
      Le 1er lieu s'affiche en premier. "recherche" = ce qu'on tape dans Google Maps.
      Pour plus de précision, remplacez-la par l'adresse exacte du lieu. */
   lieu: {
@@ -96,28 +96,28 @@ window.INVITATION = {
     boutonItineraire: "Ouvrir l'itinéraire",
     lieux: [
       {
-        onglet: "Réception",
+        onglet: "La Réception",
         nom: "Espace Eden Traiteur",
         adresse: "Riviera 2, Abidjan, Côte d'Ivoire",
         quand: "Samedi 21 Novembre, à 14h00",
         recherche: "Espace Eden, Riviera 2, Abidjan"
       },
       {
-        onglet: "Mairie",
+        onglet: "La Mairie",
         nom: "Mairie de Cocody",
         adresse: "Cocody, Abidjan, Côte d'Ivoire",
         quand: "Samedi 21 Novembre, à 09h00",
         recherche: "Hôtel Communal de Cocody, Abidjan"
       },
       {
-        onglet: "Église",
+        onglet: "L'Église",
         nom: "Paroisse Bon Pasteur",
         adresse: "Riviera 3, Abidjan, Côte d'Ivoire",
         quand: "Samedi 21 Novembre, à 11h00",
         recherche: "Paroisse Bon Pasteur, Riviera 3, Abidjan"
       },
       {
-        onglet: "Dimanche",
+        onglet: "Le Dimanche",
         nom: "Cité des Cadres",
         adresse: "Cocody (École de police), Abidjan, Côte d'Ivoire",
         quand: "Dimanche 22 Novembre, réception familiale",
