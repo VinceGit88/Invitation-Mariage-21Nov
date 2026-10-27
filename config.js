@@ -87,7 +87,7 @@ window.INVITATION = {
     }
   },
 
-  /* ---------- 5. Rendez Vous pour ----------
+  /* ---------- 5. Rendez Vous pour... ----------
      Le 1er lieu s'affiche en premier. "recherche" = ce qu'on tape dans Google Maps.
      Pour plus de précision, remplacez-la par l'adresse exacte du lieu. */
   lieu: {
