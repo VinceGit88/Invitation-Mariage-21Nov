@@ -58,7 +58,6 @@ window.INVITATION = {
         titre: "Dieu au centre de tout",
         texte: "Nous avons choisi de bâtir notre foyer sur la foi et la prière. C'est avec Lui que nous disons « oui » pour la vie."
       }
-    ]
   },
    
   /* ---------- 3. Le programme (samedi) ---------- */
